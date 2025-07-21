@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using estudoLINQ.QuerySyntax;
+
+// Filtro.filtro(); //filtro
+// Ordenacao.ordenação(); //ordenação
+JuncaoDados.juncaoDados();
